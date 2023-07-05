@@ -139,7 +139,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-If you have access to similar files, extensions, and data related to the gully erosion, you can experiment with the following sample Python code. It can serve as a starting point for your analysis
+If you have some similar files such as raster, .tif, and data related to the gully erosion, you can experiment with the following sample Python code. It can serve as a starting point for your analysis
 
 
 
