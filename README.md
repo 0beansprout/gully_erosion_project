@@ -191,6 +191,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
+Reference Link: [https://www.sciencedirect.com/science/article/pii/S2214581822002099#fig0010](https://www.sciencedirect.com/science/article/pii/S2214581822002099#fig0010)
 
 
 <!-- CONTACT -->
@@ -200,7 +201,6 @@ Youngbeen Oh - [@0beansprout](https://linkedin.com/in/youngbeen-oh) - oyb7140@gm
 
 Project Link: [https://github.com/0beansprout/gully_erosion_project](https://github.com/0beansprout/gully_erosion_project)
 
-Reference Link: [https://www.sciencedirect.com/science/article/pii/S2214581822002099#fig0010](https://www.sciencedirect.com/science/article/pii/S2214581822002099#fig0010)
 
 
 
